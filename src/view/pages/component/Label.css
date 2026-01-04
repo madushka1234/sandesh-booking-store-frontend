@@ -1,0 +1,33 @@
+.label-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 4rem;
+    padding: 1.5rem 1rem;
+    background-color: #0f172a;
+    color: #ffffff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+    font-size: 1.1rem;
+    flex-wrap: wrap;
+    margin-bottom: 0.5rem;
+}
+
+.label {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    transition: transform 0.3s ease, color 0.3s ease;
+    cursor: default;
+}
+
+.label:hover {
+    color: #38bdf8; /* light blue on hover */
+    transform: scale(1.05);
+}
+
+.label-icon {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
