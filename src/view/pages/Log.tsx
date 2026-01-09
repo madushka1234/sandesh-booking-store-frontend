@@ -90,7 +90,7 @@ export function Login() {
                     Haven't an account? Please <Link to="/Register" className='text-blue-500 hover:text-blue-700'>Register</Link>
                 </p>
 
-                <p className='mt-5 text-center text-gray-500 text-xs'>©2025 Pavithra Book Store. All rights reserved.</p>
+                <p className='mt-5 text-center text-gray-500 text-xs'>©2025 Sandesh Book Store. All rights reserved.</p>
             </div>
         </div>
     );
