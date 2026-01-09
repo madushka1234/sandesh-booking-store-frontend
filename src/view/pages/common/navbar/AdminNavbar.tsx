@@ -20,7 +20,7 @@ const AdminNavbar = () => {
         <div className="admin-navbar">
             <aside className="bg-gray-800 text-white w-44 min-h-screen p-6 shadow-md fixed">
                 <div>
-                <h2 className="text-2xl font-bold mb-8 cursor-pointer" onClick={goToDashbord}>📚 Pavithra Admin </h2>
+                <h2 className="text-2xl font-bold mb-8 cursor-pointer" onClick={goToDashbord}>📚 Sandesh Admin </h2>
 
                 </div>
                 <nav>
